@@ -20,6 +20,10 @@ redirect_from:
   * Expected Graduation: Jan 2022
   * Dissertation Committee: Professor Xiaoquan (Michael) Zhang (Chair), Juan Feng, Xiting Gong, Keeyhung Kim
 
+* Jilin University, Changchun, China
+  * B.S. in Actuarial Studies and B.A. in Applied Finance, 2015
+
+
 ### Research Interests
 
 --- 
