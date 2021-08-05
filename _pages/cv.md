@@ -57,7 +57,8 @@ redirect_from:
  * Siqi PEI, Jialu Liu, and Keehyung Kim, “Risk Disclosure in Crowdfunding”
  
  * Siqi PEI, Miaozhe HAN, Jie SONG, Xiaoquan (Michael) Zhang, “The Spillover Effect of Recommendation Algorithm in Online Shopping Platform” (Working title)
- 
+   
+   
 ### HONORS & AWARDS
 
 --- 
@@ -73,7 +74,8 @@ redirect_from:
  * Second prize, National Mathematics Competition (Province Division), 2013
  
  * Scholarship of Jilin University, 2011-2015
- 
+  
+  
 ### Conferences & Presentations
 
 --- 
@@ -89,7 +91,8 @@ redirect_from:
 --- 
 
  * Introduction to Information Systems, Technology Innovation and Entrepreneurship, Microeconomics, Behavioral Economics, Business Analytics, Econometrics
- 
+   
+   
 ### Teaching Experiences                                                                               
 
 --- 
@@ -115,7 +118,8 @@ Econometric Theory and Application, Microeconomic Theory, Applied Econometrics,
 Business Forecasting, Web Analytics and Intelligence, Advanced Business Economics Research Seminar, 
 Advanced Management Information System Research Seminar, Research Methods in Microeconomics, 
 Industrial Organization, Thesis Research
-
+  
+  
 ### Others 
 
 --- 
