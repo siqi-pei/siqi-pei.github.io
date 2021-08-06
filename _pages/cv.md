@@ -36,11 +36,11 @@ redirect_from:
 
 --- 
 
- * Siqi PEI, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Online Food Delivery Platforms and Female Labor Force Participation”, Major revision at ***Information Systems Research***
+ * **Siqi PEI**, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Online Food Delivery Platforms and Female Labor Force Participation”, Major revision at ***Information Systems Research***
  
- * Siqi PEI, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Environmental Regulation and Political Corruption”, Major revision at ***Management Science***
+ * **Siqi PEI**, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Environmental Regulation and Political Corruption”, Major revision at ***Management Science***
  
- * Siqi PEI and Keehyung KIM, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study”, Under review at ***Management Science***
+ * **Siqi PEI** and Keehyung KIM, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study”, Under review at ***Management Science***
 
 ### Working Papers
 
