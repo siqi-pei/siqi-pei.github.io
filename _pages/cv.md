@@ -36,27 +36,27 @@ redirect_from:
 
 --- 
 
- * Siqi PEI, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Online Food Delivery Platforms and Female Labor Force Participation”, Major revision at Information Systems Research
+ * Siqi PEI, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Online Food Delivery Platforms and Female Labor Force Participation”, Major revision at ***Information Systems Research***
  
- * Siqi PEI, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Environmental Regulation and Political Corruption”, Major revision at Management Science
+ * Siqi PEI, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Environmental Regulation and Political Corruption”, Major revision at ***Management Science***
  
- * Siqi PEI and Keehyung KIM, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study”, Under review at Management Science
+ * Siqi PEI and Keehyung KIM, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study”, Under review at ***Management Science***
 
 ### Working Papers
 
 ---
- * Siqi PEI, Yiying ZHANG, Juan FENG, Xiaoquan (Michael) Zhang, “Does Personal Data Always Help to Increase Revenue of Online Shopping Platform?”, In preparation for submission to Management Science
+ * **Siqi PEI**, Yiying ZHANG, Juan FENG, Xiaoquan (Michael) Zhang, “Does Personal Data Always Help to Increase Revenue of Online Shopping Platform?”, In preparation for submission to ***Management Science***
  
- * Tao LU, Hao YING, Siqi PEI, Xiaoquan (Michael) Zhang, “A model of Influencer Marketing Pricing”, In preparation for submission to Management Science  
+ * Tao LU, Hao YING, **Siqi PEI**, Xiaoquan (Michael) Zhang, “A model of Influencer Marketing Pricing”, In preparation for submission to ***Management Science***
 
  
 ### Selected Research In Progress 
 
 ---
 
- * Siqi PEI, Jialu LIU, and Keehyung KIM, “Risk Disclosure in Crowdfunding” (Working title)
+ * **Siqi PEI**, Jialu LIU, and Keehyung KIM, “Risk Disclosure in Crowdfunding” (Working title)
  
- * Siqi PEI, Miaozhe HAN, Jie SONG, Xiaoquan (Michael) Zhang, “The Spillover Effect of Recommendation in Online Shopping Platform” (Working title)
+ * **Siqi PEI**, Miaozhe HAN, Jie SONG, Xiaoquan (Michael) Zhang, “The Spillover Effect of Recommendation in Online Shopping Platform” (Working title)
    
    
 ### HONORS & AWARDS
@@ -80,16 +80,16 @@ redirect_from:
 
 --- 
 
- * Siqi PEI, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Online Food Delivery Platforms and Female Labor Force Participation,” Workshop on Information Systems and Economics (WISE), 2020.
+ * **Siqi PEI**, Jialu LIU, and Xiaoquan (Michael) ZHANG, “Online Food Delivery Platforms and Female Labor Force Participation,” Workshop on Information Systems and Economics (WISE), 2020.
 
- * Siqi PEI and Keehyung KIM, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study,” Statistical Challenges in Electronic Commerce Research (SCECR), 2020.
+ * **Siqi PEI** and Keehyung KIM, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study,” Statistical Challenges in Electronic Commerce Research (SCECR), 2020.
 
- * Siqi PEI and Jaimie LIEN, “Social News Sentiment and Equity Trading Indicators,” China Meeting of the Econometric Society (CMES), 2018.
+ * **Siqi PEI** and Jaimie LIEN, “Social News Sentiment and Equity Trading Indicators,” China Meeting of the Econometric Society (CMES), 2018.
   
       
 ### Teaching Experiences                                                                               
 --- 
-Teaching Assistants, CUHK Business School  
+**Teaching Assistants**, CUHK Business School  
  * Strategic Information Systems (EMBA), CUHK, 2020 and 2021
  
  * Applied Econometrics for Business Decisions, CUHK, Fall 2019
@@ -113,16 +113,16 @@ Teaching Assistants, CUHK Business School
 ### Doctoral Coursework 
 
 --- 
-Information System  
+*Information System*  
 Advanced Management Information System Research Seminar  
 Web Analytics and Intelligence  
 Thesis Research  
 
-Econometric  
+*Econometric*  
 Econometric Theory and Application  
 Applied Econometrics  
 
-Economics  
+*Economics*  
 Microeconomic Theory  
 Business Forecasting  
 Advanced Business Economics Research Seminar  
