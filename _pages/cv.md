@@ -93,8 +93,10 @@ redirect_from:
   
   
 ### Teaching Experiences                                                                               
+  
 --- 
-**Teaching Assistant**, CUHK Business School  
+
+***Teaching Assistant***, CUHK Business School  
  * Strategic Information Systems (EMBA), CUHK, 2020 and 2021
  
  * Applied Econometrics for Business Decisions, CUHK, Fall 2019
