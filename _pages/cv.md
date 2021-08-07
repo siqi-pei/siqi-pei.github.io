@@ -131,9 +131,9 @@ Research Methods in Microeconomics
 Industrial Organization   -->
 
 |Course|Instructor|
-|:----|----:|
+|:----|:----|
 |***Information System***||
-|Advanced Management Information System Research Seminar|ZHANG, Michael Xiaoquan|
+|Advanced Management Information System Research Seminar                      |ZHANG, Michael Xiaoquan|
 |Web Analytics and Intelligence|BANG Youngsok|
 |Thesis Research|ZHANG, Michael Xiaoquan|
 |***Econometric***||
