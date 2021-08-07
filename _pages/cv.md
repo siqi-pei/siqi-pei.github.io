@@ -18,7 +18,7 @@ redirect_from:
 * Chinese University of Hong Kong, CUHK Business School, Hong Kong
   * Ph.D. in Information System
   * Expected Graduation: Jan 2022
-  * Adviser: Zhang, Michael Xiaoquan[Michael's homepage](https://mikezhang.com/)
+  * Adviser: [Zhang, Michael Xiaoquan](https://mikezhang.com/)
 
 * Jilin University, Changchun, China
   * B.S. in Actuarial Studies and B.A. in Applied Finance, 2015
@@ -151,13 +151,16 @@ Industrial Organization
 
 
   
-### Others 
+### References 
 
 --- 
-
- * Programming: Python, R, Mathematica, Stata, Latex
-
- * Language Skills: Mandarin (Native), English (Fluent) 
- 
- * Interest: Calligraphy, Surfing, Hiking, Skiing
+ * **Xiaoquan (Michael) ZHANG** (Committee Chair)
+   - Chair Professor of Decision Sciences and Managerial Economics
+   - CUHK Business School, Chinese University of Hong Kong
+   - zhang@cuhk.edu.hk
+    
+ * **Juan FENG**
+   - Chair Professor of Management Science and Engineering
+   - Tsinghua SEM Shenzhen Campus, Tsinghua University
+   - fengjuan@sem.tsinghua.edu.cn
 
