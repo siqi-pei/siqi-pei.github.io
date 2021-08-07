@@ -131,7 +131,7 @@ Research Methods in Microeconomics
 Industrial Organization  
 
 <html>
-    <table frame=void rules=none>
+    <table style="border-collapse:collapse;empty-cell:show;" frame=void rules=none boardcolor='white'>
         <tr>
             <td>
                 <!--左侧内容-->
