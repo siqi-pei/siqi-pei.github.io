@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+## Education
 
 --- 
 
@@ -24,7 +24,7 @@ redirect_from:
   * B.S. in Actuarial Studies and B.A. in Applied Finance, 2015
 
 
-### Research Interests
+## Research Interests
 
 --- 
 
@@ -32,7 +32,7 @@ redirect_from:
 * Methods: Applied Econometrics, Field Experiments, Lab Experiments, Natural Experiment, Machine Learning
 
 
-### Papers Under Review
+## Papers Under Review
 
 --- 
 
@@ -42,7 +42,7 @@ redirect_from:
  
  * **Siqi PEI** and Keehyung KIM, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study”, Under review at ***Management Science***
 
-### Working Papers
+## Working Papers
 
 ---
  * **Siqi PEI**, Yiying ZHANG, Juan FENG, and Xiaoquan (Michael) ZHANG, “Does Personal Data Always Help to Increase Revenue of Online Shopping Platform?”, In preparation for submission to ***Management Science***
@@ -50,7 +50,7 @@ redirect_from:
  * Tao LU, Hao YING, **Siqi PEI**, and Xiaoquan (Michael) ZHANG, “A model of Influencer Marketing Pricing”, In preparation for submission to ***Management Science***
 
  
-### Work In Progress
+## Work In Progress
 
 ---
 
@@ -59,7 +59,7 @@ redirect_from:
  * **Siqi PEI**, Miaozhe HAN, Jie SONG, and Xiaoquan (Michael) ZHANG, “The Spillover Effect of Recommendation in Online Shopping Platform” (Working title)
    
    
-### HONORS & AWARDS
+## Honors & Awards
 
 --- 
 
@@ -74,7 +74,7 @@ redirect_from:
  * Scholarship of Jilin University, 2011-2015
   
   
-### Conferences Presentations
+## Conferences Presentations
 
 --- 
 
@@ -85,14 +85,14 @@ redirect_from:
  * “Social News Sentiment and Equity Trading Indicators,” China Meeting of the Econometric Society (CMES), 2018.
   
 
-### Teaching Interests
+## Teaching Interests
 
 --- 
 
  * Introduction to Information Systems, Technology Innovation and Entrepreneurship, Marketing Management, Microeconomics, Behavioral Economics, Business Analytics, Econometrics
   
   
-### Teaching Experiences                                                                               
+## Teaching Experiences                                                                               
   
 --- 
 
@@ -149,7 +149,7 @@ Industrial Organization   -->
 |Business Forecasting|LI Hongyi|
  -->
   
-### References 
+## References 
 
 --- 
  * **Xiaoquan (Michael) ZHANG** (Committee Chair)
