@@ -111,9 +111,9 @@ redirect_from:
 
    
    
-### Doctoral Coursework 
+<!-- ### Doctoral Coursework 
 
---- 
+---  -->
 <!-- *Information System*  
 Advanced Management Information System Research Seminar  
 Web Analytics and Intelligence  
@@ -129,7 +129,7 @@ Business Forecasting
 Advanced Business Economics Research Seminar  
 Research Methods in Microeconomics  
 Industrial Organization   -->
-
+<!-- 
 |Course|Instructor|
 |:----|:----|
 |***Information System***||
@@ -145,7 +145,7 @@ Industrial Organization   -->
 |Research Methods in Microeconomics|XIA Xiaoyu|
 |Industrial Organization|NG Travis|
 |Business Forecasting|LI Hongyi|
-
+ -->
   
 ### References 
 
