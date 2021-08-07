@@ -133,7 +133,7 @@ Industrial Organization   -->
 |Course|Instructor|
 |:----|:----|
 |***Information System***||
-|Advanced Management Information System Research Seminar                      |ZHANG, Michael Xiaoquan|
+|Advanced Management Information System Research Seminar &emsp; &emsp; &emsp;|ZHANG, Michael Xiaoquan|
 |Web Analytics and Intelligence|BANG Youngsok|
 |Thesis Research|ZHANG, Michael Xiaoquan|
 |***Econometric***||
