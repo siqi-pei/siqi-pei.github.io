@@ -135,12 +135,15 @@ Industrial Organization
         <tr>
             <td>
                 <!--左侧内容-->
-                Course
-                Information System
+                Course<br>
+                Information System<br>
+                Advanced Management Information System Research Seminar<br>
             </td>
             <td>
                 <!--右侧内容-->
-                Instructor
+                Instructor<br>
+                <br>
+                ZHANG, Michael Xiaoquan<br>
             </td>
         </tr>
     </table>
