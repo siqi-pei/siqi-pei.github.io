@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## <center>Papers Under Review</center>
+---
+
 
 &#49;. **Siqi PEI**, Jialu LIU, and Xiaoquan (Michael) ZHANG, **“Online Food Delivery Platforms and Female Labor Force Participation”**, Major revision at *Information Systems Research*  
   
@@ -23,6 +25,7 @@ author_profile: true
 <br>  
   
 ## <center>Working Papers</center>
+---
 
 
 &#49;. **Siqi PEI**, Yiying ZHANG, Juan FENG, Xiaoquan (Michael) ZHANG, **“Does Personal Data Always Help to Increase Revenue of Online Shopping Platform?”**, In preparation for submission to *Management Science*
