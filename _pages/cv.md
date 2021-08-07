@@ -114,7 +114,7 @@ redirect_from:
 ### Doctoral Coursework 
 
 --- 
-*Information System*  
+<!-- *Information System*  
 Advanced Management Information System Research Seminar  
 Web Analytics and Intelligence  
 Thesis Research  
@@ -128,27 +128,23 @@ Microeconomic Theory
 Business Forecasting  
 Advanced Business Economics Research Seminar  
 Research Methods in Microeconomics  
-Industrial Organization  
+Industrial Organization   -->
 
-<html>
-    <table style="border-collapse:collapse;empty-cell:show;" frame=void rules=none boardcolor='white'>
-        <tr>
-            <td>
-                <!--左侧内容-->
-                Course<br>
-                Information System<br>
-                Advanced Management Information System Research Seminar<br>
-            </td>
-            <td>
-                <!--右侧内容-->
-                Instructor<br>
-                <br>
-                ZHANG, Michael Xiaoquan<br>
-            </td>
-        </tr>
-    </table>
-</html>
-
+|Course|Instructor|
+|:----|----:|
+|***Information System***||
+|Advanced Management Information System Research Seminar|ZHANG, Michael Xiaoquan|
+|Web Analytics and Intelligence|BANG Youngsok|
+|Thesis Research|ZHANG, Michael Xiaoquan|
+|***Econometric***||
+|Econometric Theory and Application|SHI Zhentao|
+|Applied Econometrics|WANG Xiaohu|
+|***Economics***||
+|Microeconomic Theory|WONG Kam Chau|
+|Advanced Business Economics Research Seminar|XIAO Junji|
+|Research Methods in Microeconomics|XIA Xiaoyu|
+|Industrial Organization|NG Travis|
+|Business Forecasting|LI Hongyi|
 
   
 ### References 
