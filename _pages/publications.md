@@ -15,7 +15,8 @@ author_profile: true
 <br>
 <br>
   
-&#50;. **Siqi PEI**, Jialu LIU, and Xiaoquan (Michael) ZHANG, **“Environmental Regulation and Political Corruption”**, Major revision at *Management Science*
+&#50;. **Siqi PEI**, Jialu LIU, and Xiaoquan (Michael) ZHANG, **“Environmental Regulation and Political Corruption”**, Major revision at *Management Science*  
+
 **Abstract:** Exploiting the spatial discontinuity in monitoring water pollutants, we examine whether technology can reduce the political agency problem in the context of combating water pollution by examining the corruptive activities between firms and local officials. We find that technology alone is not effective in reducing the corruption between firms and local officials. However, corruption is significantly reduced when technology is complemented by organizational changes. Further analyses show that the reduction in corruption is significantly larger in locations where local officials have stronger political promotion incentives. Our findings demonstrate that to mitigate the political agency problem in combating pollution, policymakers should introduce accompany new technologies with organizational changes.
 <br>
 <br>
