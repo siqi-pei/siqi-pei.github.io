@@ -37,9 +37,15 @@ author_profile: true
 
 **Abstract:** The influencer marketing is one of the most widely used approaches to showcase brand’s products and services on social media platforms nowadays. Different from the celebrity endorsement, the wide range of social media influencers’ impact and the emerging influencer market system makes it difficult for brands to set a reasonable and consistent price strategy for social media influencers’ advertising services. In practice, the most common way is to pay the influencers according to their follower numbers. However, the simple pricing method suffers problems, the most severe one is that the aggregate value various influencers created together for the advertiser is not linear with their follower numbers. To the advertiser, the advertising cost should be proportional to the market value (effectiveness of advertisement) each influencer generates, rather than their follower numbers. The transparency of social media enables us to quantify the effectiveness of each influencer’s advertisement, we thus propose a model which takes advantage of the superiorities of influencer marketing and set one influencer’s price according to the share of the total commercial value (relative market value) he/she captured. We measure the influencer’s relative market value based on his/her follower proportion and attractive capability. Our model has several important implications for the industry. 
 <br>
+<br>
+
 
 &#51;. **Siqi PEI**, Jialu LIU, and Keehyung KIM, “Risk Disclosure in Crowdfunding” (Working title)
 <br>
+<br>
+<br>
 
 &#52;. **Siqi PEI**, Miaozhe HAN, Jie SONG, and Xiaoquan (Michael) ZHANG, “The Spillover Effect of Recommendation in Online Shopping Platform” (Working title)
+<br>
+<br>
 <br>
