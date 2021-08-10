@@ -44,7 +44,7 @@ author_profile: true
 <br>
 
 
-&#51;. **Siqi PEI**, Jialu LIU, and Keehyung KIM, “Risk Disclosure in Crowdfunding” (Working title)
+&#51;. **Siqi PEI**, Jialu LIU, and Keehyung KIM, “An Experimental Investigation of Risk Disclosure Policy in Crowdfunding” (Working title)
 <br>
 <br>
 <br>
