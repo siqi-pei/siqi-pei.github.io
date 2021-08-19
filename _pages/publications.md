@@ -50,11 +50,9 @@ author_profile: true
 &#49;. **Siqi Pei**, Miaozhe Han, Jie Song, and Xiaoquan (Michael) Zhang, **“The Impact of High-Priced Recommendations on Consumer Consumption: A Field Experiment with Online Shopping Platform”** (Working title)
 <br>
 <br>
-<br>
 
 
 &#50;. **Siqi Pei**, Jialu Liu, and Keehyung Kim, **“An Experimental Investigation of Risk Disclosure Policy in Crowdfunding”** (Working title)
-<br>
 <br>
 <br>
 
