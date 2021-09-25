@@ -11,7 +11,7 @@ redirect_from:
 ## <center> About me </center>
 
 I'm a Ph.D. candidate in Information System at the Business School of Chinese University of Hong Kong,
-where I'm privileged to be advised by [Zhang, Michael Xiaoquan](https://mikezhang.com/)  
+where I'm privileged to be advised by [Zhang, Michael Xiaoquan](https://mikezhang.com/).
 
 My research interests include Economics of IS, Intelligent Systems, Business Analytics, Digital Platforms, Financial Technologies,
 Healthcare Informatics and Analytics with a comprehensive research methods of Applied Econometrics, Econometric Modeling, Field Experiments, Lab Experiments,
