@@ -47,7 +47,7 @@ author_profile: true
 ## <center>Select Research In Progress</center>
 ---
 
-&#49;. **“Anchoring or Mental Accounting? How Does Increased Price Lead to Increased Demand: A Field Experiment** (Working title)
+&#49;. **“Anchoring or Mental Accounting? How Does Increased Price Lead to Increased Demand: A Field Experiment”** (Working title)
 <br>
 <br>
 
