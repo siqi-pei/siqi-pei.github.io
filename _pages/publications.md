@@ -58,12 +58,12 @@ author_profile: true
 ## <center>Select Research In Progress</center>
 ---
 
-&#50;. **“Anchoring or Mental Accounting? How Does Increased Price Lead to Increased Demand: A Field Experiment”** (Working title), with Miaozhe Han, Jiesong, Xiaoquan (Michael) Zhang, and Feng Zhu. *Manuscript in preparation*
+&#49;. **“Anchoring or Mental Accounting? How Does Increased Price Lead to Increased Demand: A Field Experiment”** (Working title), with Miaozhe Han, Jie Song, Xiaoquan (Michael) Zhang, and Feng Zhu. *Manuscript in preparation*
 <br>
 <br>
 
 
-&#51;. **“Blind Box Marketing: A Pricing Model to Increase Manufacturer Profits”** (Working title), with Jie Song, Hao Ying, and Xiaoquan (Michael) Zhang. *Model estimation in progress*
+&#50;. **“Blind Box Marketing: A Pricing Model to Increase Manufacturer Profits”** (Working title), with Jie Song, Hao Ying, and Xiaoquan (Michael) Zhang. *Model estimation in progress*
 <br>
 <br>
 
