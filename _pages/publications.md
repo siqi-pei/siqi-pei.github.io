@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## <center>Papers Under Review</center>
-<center>(<sup>**1**</sup>Co-first Authors, Listed in Alphabetical Order)</center>  
+<center>(<sup>**1**</sup>Co-first Authors, Listed in Alphabetical Order)</center>
+
 ---
 
 &#49;. Liu Jialu<sup>**1**</sup>, **Pei Siqi**<sup>**1**</sup>, and Xiaoquan (Michael) Zhang, **“Environmental Regulation and Political Corruption”**, Major revision at *Management Science*  
