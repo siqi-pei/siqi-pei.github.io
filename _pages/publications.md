@@ -49,7 +49,7 @@ author_profile: true
 <br>
 <br>
 
-&#52;. **“An Experimental Investigation of Risk Disclosure Policy in Crowdfunding”** (Working title), with Jialu Liu, and Keehyung Kim. *In prepration for submission*  
+&#52;. **“An Experimental Investigation of Risk Disclosure Policy in Crowdfunding”** (Working title), with Jialu Liu, and Kim Keehyung. *In prepration for submission*  
 
 **Abstract:** Despite the popularity of crowdfunding, regulators and the platforms need to design various policies to protect investors from risks and information asymmetry. We model four different risk disclosure policies in crowdfunding and employ economic experiments to examine how different risk disclosure policies affect project managers’ behaviors as well as investors’ behaviors. The results reject the selfinterested model. We found that project managers lie about the true risks of the project and underreport it to investors if they need to disclose the project risks. Moreover, policies requiring risk disclosure will lead to an even worse outcome than not disclosing risk. To explain the empirical regularities, we develop a behavioral economics model that captures trust and inequality aversion from investors and project managers. Our findings demonstrate that it is important for policymakers to account for the non-pecuniary factors that can influence people’s behavior in crowdfunding.
 <br>
