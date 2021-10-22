@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## <center>Papers Under Review</center>
-<center>(<sup>**1**</sup>Co-first Authors, Listed in Alphabetical Order)</center>
+<center>(<sup>1</sup>Co-first Authors, Listed in Alphabetical Order)</center>
 
 ---
 
