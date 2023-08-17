@@ -19,11 +19,13 @@ Natural Experiment, and Machine Learning.
 If you interested in collaboration. You can reach my at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
 
 
+
 ## <left> Profession Experience </left>
+
 
 <b> Shanghai University of Finance and Economics, College of Business </b>  
 
-- <pre> Assistant Professor                     2022 - Present </pre>
+- <pre> Assistant Professor                     2022 - Present</pre>
 
 <b> Massachusetts Institute of Technology, MIT Sloan School of Management </b>    
 
