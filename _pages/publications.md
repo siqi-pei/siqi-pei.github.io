@@ -9,7 +9,6 @@ author_profile: true
 
 1. Jialu Liu, Siqi Pei*, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, Information Systems Research, Forthcoming   
   •  Winner, 2020 WISE Best Paper Award  
-<br>  
 
 2. Jialu Liu, Siqi Pei*, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, Management Science, Major Revision
 <br> 
