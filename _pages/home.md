@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-## <left> About ME </left>
+## <left> About Me </left>
 
 My name is Siqi Pei. I am an Assistant Professor of Marketing at the College of Business, Shanghai University of Finance and Economics. 
 I obtained my Ph.D. in Information Systems from the Chinese University of Hong Kong in 2022.
@@ -33,7 +33,7 @@ pre {
 
 <b> Massachusetts Institute of Technology, MIT Sloan School of Management </b>    
 
-- <pre> Visiting Scholar                        2023 - 2024 (expected) </pre>
+- <pre> Visiting Scholar                         2023 - 2024 (expected) </pre>
 
 
 
