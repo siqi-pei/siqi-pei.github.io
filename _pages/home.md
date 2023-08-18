@@ -16,7 +16,7 @@ I obtained my Ph.D. in Information Systems from the Chinese University of Hong K
 My research interests include Digital Economy, Quantitative Marketing, Emerging Markets with a comprehensive research methods of Applied Econometrics, Econometric Modeling, Field Experiments, Lab Experiments,
 Natural Experiment, and Machine Learning.
 
-If you interested in collaboration. You can reach my at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
+If you are interested in collaboration. You can reach me at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
 
 <br>
 
