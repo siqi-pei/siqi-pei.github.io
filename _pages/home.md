@@ -27,15 +27,15 @@ pre {
 }
 </style>
 
-<b> Shanghai University of Finance and Economics, College of Business </b>  
+Shanghai University of Finance and Economics, College of Business  
 
 - <pre> Assistant Professor                     2022 - Present</pre>
 
-<b> Massachusetts Institute of Technology, MIT Sloan School of Management </b>    
+Massachusetts Institute of Technology, MIT Sloan School of Management    
 
 - <pre> Visiting Scholar                         2023 - 2024 (expected) </pre>
 
-
+<br>  
 
 ## <left> Honors, Grants, and Awards </left>
 - General Research Fund, Shanghai University of Finance and Economics, 2022 - 2025  
@@ -45,7 +45,7 @@ pre {
 - Chinese University of Hong Kong, Postgraduate Studentships (PGS) Award, 2016-2021  
 - “Challenge Cup” Chinese College Student Business Plan Competition, Gold Prize, 2014
 
-
+<br>  
 
 ## <left> Academic Services </left>
 - Reviewer, Information Systems Research (ISR), 2023  

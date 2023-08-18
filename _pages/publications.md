@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications and Papers Under Revision ( * corresponding author )
+## Publications and Papers Under Revision ( * corresponding author&nbsp;)
 
 1. Jialu Liu, <b>Siqi Pei*</b>, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, Information Systems Research, Forthcoming
     - Winner, 2020 WISE Best Paper Award    
