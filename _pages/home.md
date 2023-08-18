@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-## <left> About Me </left>
+## <left> About ME </left>
 
 My name is Siqi Pei. I am an Assistant Professor of Marketing at the College of Business, Shanghai University of Finance and Economics. 
 I obtained my Ph.D. in Information Systems from the Chinese University of Hong Kong in 2022.
@@ -18,10 +18,14 @@ Natural Experiment, and Machine Learning.
 
 If you interested in collaboration. You can reach my at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
 
-
+<br>
 
 ## <left> Profession Experience </left>
-
+<style>
+pre {
+  font-family: "Academicons";
+}
+</style>
 
 <b> Shanghai University of Finance and Economics, College of Business </b>  
 
