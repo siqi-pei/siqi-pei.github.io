@@ -28,11 +28,11 @@ pre {
 </style>
 
 Massachusetts Institute of Technology, MIT Sloan School of Management
-- <pre> Visiting Scholar                         2023 - 2024 (expected) </pre>
+- <pre> Visiting Scholar                     2023 - 2024 (expected) </pre>
   
 
 Shanghai University of Finance and Economics, College of Business
-- <pre> Assistant Professor                     2022 - Present</pre>
+- <pre> Assistant Professor                  2022 - Present</pre>
   
 
 
