@@ -39,8 +39,8 @@ pre {
 [//]: # (- Assistant Professor                  2022 - Present)
 
 [//]: # (</pre>)
-Visiting Scholar, Massachusetts Institute of Technology, MIT Sloan School of Management, 2023 - 2024 (expected)
-Assistant Professor, Shanghai University of Finance and Economics, College of Business, 2022 - Present
+- Visiting Scholar, Massachusetts Institute of Technology, MIT Sloan School of Management, 2023 - 2024 (expected)
+- Assistant Professor, Shanghai University of Finance and Economics, College of Business, 2022 - Present
 
 
 
