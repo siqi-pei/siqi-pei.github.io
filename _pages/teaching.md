@@ -7,6 +7,8 @@ author_profile: true
 
 ## Instructor, Shanghai University of Finance and Economics
 - Introduction to Marketing  
+- Digital Marketing
+- Introduction to Marketing Research, Postgraduate
 - Seminar in Quantitative Marketing, Postgraduate  
 
 ## Teaching Assistant, Chinese University of Hong Kong

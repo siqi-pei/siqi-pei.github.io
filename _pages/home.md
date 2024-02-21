@@ -53,10 +53,10 @@ pre {
 4. Juanni Chen, Qi Sun, Siqi Pei*, and Yong Liu, “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content”, Marketing Science, Under Review
 
 ## <left> WORKING PAPERS </left> 
-5. Siqi Pei, Yiying Zhang, Juan Feng, and Michael Zhang, “How Much Personalized Information is Necessary? Re-examining Personalized Recommendations in Consumer Purchases”
-6. Miaozhe Han, Siqi Pei, Jie Song, Feng Zhu, and Michael Zhang,  “The Blessing of High Price: A Field Experiment on E-Commerce Platform”
-7. Siqi Pei, and Keehyung Kim, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study”
-8. Jialu Liu, Siqi Pei, and Keehyung Kim, “Risk Disclosure Policy in Crowdfunding”
+5. Siqi Pei, Hongshen Sun, “Mobile Payments and Urban Mobility: Assessing the Influence of Mobile Payments on Metro Ridership and Environmental Enhancement”
+6. Siqi Pei, Yiying Zhang, Juan Feng, and Michael Zhang, “How Much Personalized Information is Necessary? Re-examining Personalized Recommendations in Consumer Purchases”
+7. Miaozhe Han, Siqi Pei, Jie Song, Feng Zhu, and Michael Zhang,  “The Blessing of High Price: A Field Experiment on E-Commerce Platform”
+8. Siqi Pei, and Keehyung Kim, “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study”
 
 ## <left> TEACHING EXPERIENCE </left>
 
@@ -74,6 +74,22 @@ pre {
 - Basic Economics for the Hospitality and Tourism Industry
 - Economics for Business Studies
 - Decision Models and Applications
+
+## <left> CONFERENCE PRESENTATIONS AND INVITED TALKS  </left>
+- “Mobile Payments and Urban Mobility: Assessing the Influence of Mobile Payments on Metro Ridership and Environmental Enhancement,” 46th ISMS Marketing Science Conference, 2024.
+- “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content,” University of Arizona, 2023.
+- “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content,” University of Massachusetts Boston, 2023.
+- “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments,” Cheung Kong Graduate School of Business Digital Young Scholar Symposium, 2023.
+- “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content,” 5th Marketing Science Salon of Shanghai Universities, 2023.
+- “The Blessing of High Price: A Field Experiment on E-Commerce Platform,” the 19th Statistical Challenges in Electronic Commerce Research  (SCECR), 2023.
+- “Online Food Delivery Platforms and Employment,” East China Normal University, 2022.
+- “The Blessing of High Price: A Field Experiment on E-Commerce Platform,” Conference on Information Systems and Technology (CIST), 2022.
+- “Online Food Delivery Platforms and Employment,” University of Western Ontario, 2022.
+- “Understanding Spillover Effects of Various Digital Platforms,” 42nd International Conference on Information Systems (ICIS), 2021.
+- “An Experimental Investigation of Risk Disclosure Policy in Crowdfunding,” 17th Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), 2021.
+- “Online Food Delivery Platforms and Employment,” 31st Workshop on Information Systems and Economics (WISE), 2020 (WISE Best Paper Award).
+- “Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study,” 16th Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), 2020.
+- “Social News Sentiment and Equity Trading Indicators,” China Meeting of the Econometric Society (CMES), 2018.
 
 
 ## <left> RESEARCH AWARDS AND GRANTS </left>
