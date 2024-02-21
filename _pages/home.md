@@ -62,6 +62,7 @@ pre {
 
 ### <left> Instructor, Shanghai University of Finance and Economics </left>
 - Introduction to Marketing
+- Digital Marketing
 - Seminar in Quantitative Marketing, Postgraduate
 - Introduction to Marketing Research, Postgraduate
 
