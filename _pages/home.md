@@ -48,7 +48,7 @@ pre {
 
 1. Jialu Liu, Siqi Pei*, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, Accepted at Information Systems Research
 •  Winner, 2020 WISE Best Paper Award                                                                       
-2. Jialu Liu, Siqi Pei*, and Michael Zhang, “Indirect Value of Public Infrastructure Technology”, Management Science, Major Revision
+2. Jialu Liu, Siqi Pei*, and Michael Zhang, “Indirect Value of Public Infrastructure Technology”, Management Science, Minor Revision
 3. Wen Wang, Siqi Pei, and Tianshu Sun, “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments”, Information Systems Research, Under Review
 4. Juanni Chen, Qi Sun, Siqi Pei*, and Yong Liu, “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content”, Marketing Science, Under Review
 
