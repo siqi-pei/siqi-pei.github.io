@@ -72,22 +72,26 @@ pre {
 ## <left> TEACHING EXPERIENCE </left>
 
 ### <left> Instructor, Shanghai University of Finance and Economics </left>
+- Database Management Systems
+- Economics for Business Studies
+- Artificial Intelligence in Digital Marketing
+- Managerial Economics in Business Decision-making
+- Advanced Quantitative Research Methods (PhD)
+- Introduction to Quantitative Marketing Research (PhD)
 - Introduction to Marketing
-- Digital Marketing
-- Seminar in Quantitative Marketing, Postgraduate
-- Introduction to Marketing Research, Postgraduate
 
 ### <left> Teaching Assistant, Chinese University of Hong Kong </left>
-- Managerial Economics in Business Decision-making
-- Strategic Information Systems, EMBA
-- Entrepreneurship in Finance, MBA in Finance
+- Fintech (MBA)
+- Strategic Information Systems (EMBA)
+- Entrepreneurship in Finance (MBA in Finance)
 - Applied Econometrics for Business Decisions
 - Business Forecasting
 - Basic Economics for the Hospitality and Tourism Industry
-- Economics for Business Studies
 - Decision Models and Applications
 
 ## <left> CONFERENCE PRESENTATIONS AND INVITED TALKS  </left>
+- “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content,” Shanghai Jiao Tong University, 2024.
+- “Indirect Value of Public Infrastructure Technology,” McMaster University, 2024.
 - “Mobile Payments and Urban Mobility: Assessing the Influence of Mobile Payments on Metro Ridership and Environmental Enhancement,” 46th ISMS Marketing Science Conference, 2024.
 - “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content,” University of Arizona, 2023.
 - “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content,” University of Massachusetts Boston, 2023.
@@ -105,11 +109,11 @@ pre {
 
 
 ## <left> RESEARCH AWARDS AND GRANTS </left>
-- Shanghai Municipality: Shanghai Magnolia Award, 2023
-- National Science Fund for Distinguished Young Scholars of China, Principal Investigator, 2023
-- Distinguished Faculty Award, Shanghai University of Finance and Economics, 2023
-- General Research Fund, Shanghai University of Finance and Economics, 2022 - 2025
-- Selected to attend ICIS Doctoral Consortium, International Conference on Information Systems, 2021
+- National Natural Science Foundation of China, Principal Investigator, 2024-2026
+- Distinguished Faculty Award, Shanghai University of Finance and Economics, 2023, 2024
+- Shanghai Leading Talent (Overseas), 2023
+- General Research Fund, Shanghai University of Finance and Economics, 2022-2025
+- ICIS Doctoral Consortium, International Conference on Information Systems, 2021
 - Workshop on Information Systems and Economics (WISE) Best Paper Award, 2020
 - Hong Kong Information and Communication Technologies (HKICT) Innovation Award, 2019
 - Chinese University of Hong Kong Postgraduate Studentships (PGS) Award, 2016-2021
@@ -117,8 +121,10 @@ pre {
 <br>  
 
 ## <left> Academic Services </left>
-- Reviewer, Information Systems Research (ISR), 2023
+- Reviewer, Information Systems Research (ISR), 2023,2024
+- Reviewer, INFORMS Annual Meeting, 2024
+- Reviewer, International Conference on Information Systems (ICIS), 2019, 2020, 2022, 2024
+- Reviewer, China Summer Workshop on Information Management (CSWIM), 2023, 2024
 - Reviewer, Information& Management, 2023
 - Reviewer, Production and Operations Management (POM), 2022
-- Reviewer, International Conference on Information Systems (ICIS), 2019, 2020, 2022
 - Reviewer, Pacific Asia Conference on Information Systems (PACIS), 2019, 2020
