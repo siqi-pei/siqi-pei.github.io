@@ -10,11 +10,11 @@ redirect_from:
 
 ## <left> About Me </left>
 
-My name is Siqi Pei, and I am currently serving as an Assistant Professor of Marketing at the College of Business, Shanghai University of Finance and Economics. Additionally, I am a visiting scholar at MIT Sloan School of Management. My academic background includes a Ph.D. in Information Systems, which I received from the Chinese University of Hong Kong in 2022.
+My name is Siqi Pei, and I am currently serving as an Assistant Professor of Marketing at the College of Business, Shanghai University of Finance and Economics. My academic background includes a Ph.D. in Information Systems, which I received from the Chinese University of Hong Kong in 2022.
 
 My research interests include digital platforms, economics of artificial intelligence, social welfare, policy, and environmental issues. In terms of methodologies, I employ causal inference, machine learning, field experiments, and lab experiments in my work.
 
-You can reach me at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com) and +1(617) 803-6847 .
+You can reach me at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
 
 <br>
 
