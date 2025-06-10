@@ -63,9 +63,8 @@ pre {
 
 ## <left> WORK IN PROGRESS </left>
 
-      Strategic adjustments in influencer marketing in response to large language models
-
-      Digital marketing effectiveness and consumer decision-making in automotive sales
+7. Strategic adjustments in influencer marketing in response to large language models 
+8. Digital marketing effectiveness and consumer decision-making in automotive sales
 
 
 
