@@ -20,40 +20,44 @@ You can reach me at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
 
 ## <left> ACADEMIC APPOINTMENTS </left>
 
-**Michigan State University**, Eli Broad College of Business
+Michigan State University, Eli Broad College of Business
 * Assistant Professor of Marketing, 2025 - Present
 
-**Massachusetts Institute of Technology**, MIT Sloan School of Management
+Massachusetts Institute of Technology, MIT Sloan School of Management
 * Visiting Faculty Scholar of Marketing, 2023 - 2024
 
-**Shanghai University of Finance and Economics**, College of Business
+Shanghai University of Finance and Economics, College of Business
 * Assistant Professor of Marketing, 2022 - 2025
+<br>
 
 
 ## <left> EDUCATION </left>
 
-**Chinese University of Hong Kong**, CUHK Business School
+Chinese University of Hong Kong, CUHK Business School
 * Ph.D. in Management Information Systems, 2016 - 2022
   * Advisor: Zhang, Michael Xiaoquan
 
-**Jilin University**, Business School
+Jilin University, Business School
 * B.S. in Actuarial Science & B.A. in Applied Finance, 2011 - 2015
+<br>
 
 ## <left> RESEARCH INTERESTS </left>
 - Topics: Digital Economy, Influencer Marketing, Automotive Marketing, High-Tech Marketing, Human–AI Interactions, Social Welfare
 
 - Methodologies: Field Experiment, Causal Inference, Machine Learning, Lab Experiment
+<br>
 
 ## <left> SELECTED INDUSTRY COLLABORATIONS </left>
 - Nissan
 - Secoo
+<br>
 
 ## <left> PUBLICATIONS (*corresponding author) </left>
 
-1. Jialu Liu, <b>Siqi Pei*</b>, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, *Information Systems Research*, 35(3), 1074-1091.
+1. Jialu Liu, <b>Siqi Pei\*</b>, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, *Information Systems Research*, 35(3), 1074-1091.
     - Winner, 2020 WISE Best Paper Award    
 
-2. Jialu Liu, <b>Siqi Pei*</b>, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, Forthcoming, *Management Science*
+2. Jialu Liu, <b>Siqi Pei\*</b>, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, Forthcoming, *Management Science*
 <br> 
 
 3. Wen Wang, <b>Siqi Pei</b>, and Tianshu Sun, “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments”, Forthcoming, *Information Systems Research*
@@ -129,7 +133,7 @@ You can reach me at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
   - Statistical Challenges in Electronic Commerce Research (SCECR), 2020
 
 ## <left> PROFESSIONAL SERVICES </left>
-** Reviewer **
+**Reviewer**
 * Management Information Systems Quarterly, 2025
 * Information & Management, 2023, 2024, 2025
 * Information Systems Research (ISR), 2023, 2024
