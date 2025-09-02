@@ -90,7 +90,7 @@ Jilin University, Business School
 - Hong Kong Information and Communication Technologies (HKICT) Innovation Award, 2019
 - Chinese University of Hong Kong Postgraduate Studentships (PGS) Award, 2016-2021
 - “Challenge Cup” Chinese College Student Business Plan Competition, Gold Prize, 2014
-
+<br> 
 
 ## <left> TEACHING EXPERIENCE </left>
 - Advanced Quantitative Research Methods (PhD)
@@ -100,7 +100,7 @@ Jilin University, Business School
 - Economics for Business Studies (Undergraduate)
 - Managerial Economics in Business Decision-making (Undergraduate)
 - Introduction to Marketing (Undergraduate)
-
+<br> 
 
 ## <left> CONFERENCE PRESENTATIONS AND INVITED TALKS  </left>
 - Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments
@@ -131,6 +131,8 @@ Jilin University, Business School
   - International Conference on Information Systems (ICIS), 2021
 - Rewarding Experts in Revenue-sharing Crowdfunding: An Experimental Study
   - Statistical Challenges in Electronic Commerce Research (SCECR), 2020
+<br> 
+
 
 ## <left> PROFESSIONAL SERVICES </left>
 **Reviewer**
@@ -142,55 +144,3 @@ Jilin University, Business School
 * China Summer Workshop on Information Management (CSWIM), 2023, 2024
 * Production and Operations Management (POM), 2022
 * Pacific Asia Conference on Information Systems (PACIS), 2019, 2020
-
-
-
-[//]: # (### <left> Instructor, Shanghai University of Finance and Economics </left>)
-
-[//]: # (- Database Management Systems)
-
-[//]: # (- Economics for Business Studies)
-
-[//]: # (- Digital Marketing)
-
-[//]: # (- Managerial Economics in Business Decision-making)
-
-[//]: # (- Advanced Quantitative Research Methods &#40;PhD&#41;)
-
-[//]: # (- Introduction to Quantitative Marketing Research &#40;PhD&#41;)
-
-[//]: # (- Introduction to Marketing)
-
-[//]: # ()
-[//]: # (### <left> Teaching Assistant, Chinese University of Hong Kong </left>)
-
-[//]: # (- Fintech &#40;MBA&#41;)
-
-[//]: # (- Strategic Information Systems &#40;EMBA&#41;)
-
-[//]: # (- Entrepreneurship in Finance &#40;MBA in Finance&#41;)
-
-[//]: # (- Applied Econometrics for Business Decisions)
-
-[//]: # (- Business Forecasting)
-
-[//]: # (- Basic Economics for the Hospitality and Tourism Industry)
-
-[//]: # (- Decision Models and Applications)
-
-[//]: # ()
-[//]: # (## <left> Academic Services </left>)
-
-[//]: # (- Reviewer, Information Systems Research &#40;ISR&#41;, 2023,2024, 2025)
-
-[//]: # (- Reviewer, INFORMS Annual Meeting, 2024)
-
-[//]: # (- Reviewer, International Conference on Information Systems &#40;ICIS&#41;, 2019, 2020, 2022, 2024)
-
-[//]: # (- Reviewer, China Summer Workshop on Information Management &#40;CSWIM&#41;, 2023, 2024)
-
-[//]: # (- Reviewer, Information& Management, 2023)
-
-[//]: # (- Reviewer, Production and Operations Management &#40;POM&#41;, 2022)
-
-[//]: # (- Reviewer, Pacific Asia Conference on Information Systems &#40;PACIS&#41;, 2019, 2020)
