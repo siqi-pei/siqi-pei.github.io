@@ -10,11 +10,15 @@ redirect_from:
 
 ## <left> ABOUT ME </left>
 
-My name is Siqi Pei, and I am currently serving as an Assistant Professor of Marketing at the College of Business, Shanghai University of Finance and Economics. My academic background includes a Ph.D. in Information Systems, which I received from the Chinese University of Hong Kong in 2022.
+I am an Assistant Professor of Marketing at the Eli Broad College of Business, Michigan State University.
+My research focuses on the digital economy, influencer marketing, automotive marketing, and human–AI interactions, with a broader interest in how emerging technologies shape consumer behavior and social welfare.
+I employ field experiments, causal inference, and machine learning to generate insights that inform both marketing strategy and policy.
 
-My research interests center on three interconnected areas: (1) the economic and social impacts of digital technologies; (2) the effectiveness of automotive sales, with a particular emphasis on digital marketing strategies and the consumer decision-making process; and (3) the effectiveness of influencer marketing. In terms of methodologies, I employ causal inference, machine learning, field experiments, and lab experiments in my work.
+My work has been published in leading journals such as Information Systems Research and Management Science, and has received multiple awards, including the WISE Best Paper Award. 
+I have also collaborated with industry partners such as Nissan and Secoo on projects related to digital transformation and consumer decision-making.
 
-You can reach me at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
+If you are interested in collaborating with me or working with me as a research assistant, please feel free to contact me at [peisiqi@msu.edu](...).
+
 
 <br>
 
