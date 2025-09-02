@@ -19,49 +19,27 @@ You can reach me at [peisiqihk@outlook.com](mailto:peisiqihk@outlook.com).
 <br>
 
 ## <left> ACADEMIC APPOINTMENTS </left>
-<style>
-pre {
-  font-family: "Academicons";
-}
-</style>
-
-[//]: # (<pre>)
-
-[//]: # (Massachusetts Institute of Technology, MIT Sloan School of Management)
-
-[//]: # (- Visiting Scholar                     2023 - 2024 &#40;expected&#41; )
-
-[//]: # ( )
-[//]: # (Shanghai University of Finance and Economics, College of Business)
-
-[//]: # (- Assistant Professor                  2022 - Present)
-
-[//]: # (</pre>)
-
-- Assistant Professor of Marketing, Eli Broad College of Business, Michigan State University, 2025 - Present
-- Assistant Professor of Marketing, College of Business, Shanghai University of Finance and Economics, 2022 - 2025         
-- Visiting Faculty Scholar of Marketing, MIT Sloan School of Management, Massachusetts Institute of Technology, 2023 - 2024
-
-## ACADEMIC APPOINTMENTS
 
 **Michigan State University**, Eli Broad College of Business
-* *Assistant Professor of Marketing, 2025 - Present*
+* Assistant Professor of Marketing, 2025 - Present
 
 **Massachusetts Institute of Technology**, MIT Sloan School of Management
-* *Visiting Faculty Scholar of Marketing, 2023 - 2024*
+* Visiting Faculty Scholar of Marketing, 2023 - 2024
 
 **Shanghai University of Finance and Economics**, College of Business
-* *Assistant Professor of Marketing, 2022 - 2025*
-
+* Assistant Professor of Marketing, 2022 - 2025
 
 <br>  
 
 ## <left> Education </left>
 
-- Ph.D. in Management Information Systems, CUHK Business School, Chinese University of Hong Kong, 2016 - 2022
-  - Advisor: Zhang, Michael Xiaoquan
+**Chinese University of Hong Kong**, CUHK Business School
+* Ph.D. in Management Information Systems, 2016 - 2022
+  * Advisor: Zhang, Michael Xiaoquan
 
-- B.S. in Actuarial Science & B.A. in Applied Finance, Business School, Jilin University, 2011 - 2015
+**Jilin University**, Business School
+* B.S. in Actuarial Science & B.A. in Applied Finance, 2011 - 2015
+
 
 ## <left> Research Interest </left>
 - Topics: Digital Economy, Influencer Marketing, Automotive Marketing, High-Tech Marketing, Human–AI Interactions, Social Welfare
