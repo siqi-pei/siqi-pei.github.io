@@ -71,8 +71,8 @@ Jilin University, Business School
 5. Juanni Chen, Qi Sun, <b>Siqi Pei*</b>, and Yong Liu, “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content”, Manuscript in preparation
 <br>
 
-6. Miaozhe Han, <b>Siqi Pei</b>, Jie Song, Feng Zhu, and Michael Zhang,  “The Blessing of High Price: A Field Experiment on E-Commerce Platform”, Manuscript in preparation <br>
-<br>  
+6. Miaozhe Han, <b>Siqi Pei</b>, Jie Song, Feng Zhu, and Michael Zhang,  “The Blessing of High Price: A Field Experiment on E-Commerce Platform”, Manuscript in preparation 
+<br>
 
 
 ## <left> WORK IN PROGRESS </left>
