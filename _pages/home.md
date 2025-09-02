@@ -37,6 +37,7 @@ pre {
 [//]: # (- Assistant Professor                  2022 - Present)
 
 [//]: # (</pre>)
+
 - Assistant Professor of Marketing, Eli Broad College of Business, Michigan State University, 2025 - Present
 - Assistant Professor of Marketing, College of Business, Shanghai University of Finance and Economics, 2022 - 2025         
 - Visiting Faculty Scholar of Marketing, MIT Sloan School of Management, Massachusetts Institute of Technology, 2023 - 2024
@@ -46,8 +47,12 @@ pre {
 
 <br>  
 
-## <left> ACADEMIC APPOINTMENTS </left>
+## <left> Education </left>
 
+- Ph.D. in Management Information Systems, CUHK Business School, Chinese University of Hong Kong, 2016 - 2022
+  - Advisor: Zhang, Michael Xiaoquan
+
+- B.S. in Actuarial Science & B.A. in Applied Finance, Business School, Jilin University, 2011 - 2015
 
 ## <left> PUBLICATIONS (*corresponding author) </left>
 
