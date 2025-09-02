@@ -18,8 +18,6 @@ My work has been published in leading journals such as Information Systems Resea
 I have also collaborated with industry partners such as Nissan and Secoo on projects related to digital transformation and consumer decision-making.
 
 If you are interested in collaborating with me or working with me as a research assistant, please feel free to contact me at [peisiqi@msu.edu](...).
-
-
 <br>
 
 ## <left> ACADEMIC APPOINTMENTS </left>
