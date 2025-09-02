@@ -57,7 +57,7 @@ Jilin University, Business School
 1. Jialu Liu, <b>Siqi Pei\*</b>, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, *Information Systems Research*, 35(3), 1074-1091.
     - Winner, 2020 WISE Best Paper Award    
 
-2. Jialu Liu, <b>Siqi Pei\*</b>, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, Forthcoming, *Management Science*
+2. Jialu Liu, <b>Siqi Pei\*</b>, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, *Management Science*, 71(8), 6319–6338.
 <br> 
 
 3. Wen Wang, <b>Siqi Pei</b>, and Tianshu Sun, “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments”, Forthcoming, *Information Systems Research*
