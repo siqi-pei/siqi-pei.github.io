@@ -37,13 +37,17 @@ pre {
 [//]: # (- Assistant Professor                  2022 - Present)
 
 [//]: # (</pre>)
-- Assistant Professor, Shanghai University of Finance and Economics, 2022 - Present
-- Visiting Scholar, MIT Sloan School of Management, 2023 - 2024
+- Assistant Professor of Marketing, Eli Broad College of Business, Michigan State University, 2025 - Present
+- Assistant Professor of Marketing, College of Business, Shanghai University of Finance and Economics, 2022 - 2025         
+- Visiting Faculty Scholar of Marketing, MIT Sloan School of Management, Massachusetts Institute of Technology, 2023 - 2024
 
 
 
 
 <br>  
+
+## <left> ACADEMIC APPOINTMENTS </left>
+
 
 ## <left> PUBLICATIONS (*corresponding author) </left>
 
