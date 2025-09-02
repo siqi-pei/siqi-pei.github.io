@@ -42,7 +42,16 @@ pre {
 - Assistant Professor of Marketing, College of Business, Shanghai University of Finance and Economics, 2022 - 2025         
 - Visiting Faculty Scholar of Marketing, MIT Sloan School of Management, Massachusetts Institute of Technology, 2023 - 2024
 
+## ACADEMIC APPOINTMENTS
 
+**Michigan State University**, Eli Broad College of Business
+* *Assistant Professor of Marketing, 2025 - Present*
+
+**Massachusetts Institute of Technology**, MIT Sloan School of Management
+* *Visiting Faculty Scholar of Marketing, 2023 - 2024*
+
+**Shanghai University of Finance and Economics**, College of Business
+* *Assistant Professor of Marketing, 2022 - 2025*
 
 
 <br>  
@@ -54,17 +63,28 @@ pre {
 
 - B.S. in Actuarial Science & B.A. in Applied Finance, Business School, Jilin University, 2011 - 2015
 
+## <left> Research Interest </left>
+- Topics: Digital Economy, Influencer Marketing, Automotive Marketing, High-Tech Marketing, Human–AI Interactions, Social Welfare
+
+- Methodologies: Field Experiment, Causal Inference, Machine Learning, Lab Experiment
+
+## <left> Selected Industry Collaborations </left>
+- Nissan
+- Secoo
+
 ## <left> PUBLICATIONS (*corresponding author) </left>
 
-1. Jialu Liu, <b>Siqi Pei*</b>, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, Information Systems Research, Forthcoming
+1. Jialu Liu, <b>Siqi Pei*</b>, and Michael Zhang, “Online Food Delivery Platforms and Female Labor Force Participation”, Information Systems Research, 35(3), 1074-1091.
     - Winner, 2020 WISE Best Paper Award    
 
-2. Jialu Liu, <b>Siqi Pei*</b>, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, Management Science, Forthcoming
+2. Jialu Liu, <b>Siqi Pei*</b>, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, Forthcoming, Management Science
 <br> 
 
-## <left> WORKING PAPERS <left>
-3. Wen Wang, <b>Siqi Pei</b>, and Tianshu Sun, “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments”, Conditionally Accepted, Information Systems Research
+3. Wen Wang, <b>Siqi Pei</b>, and Tianshu Sun, “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments”, Forthcoming, Information Systems Research
 <br>
+
+## <left> WORKING PAPERS <left>
+
 4. Juanni Chen, Qi Sun, <b>Siqi Pei*</b>, and Yong Liu, “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content”, Manuscript in preparation
 <br>  
 5. <b>Siqi Pei</b>, Yiying Zhang, Juan Feng, and Michael Zhang, “How Much Personalized Information is Necessary? Re-examining Personalized Recommendations in Consumer Purchases”, Manuscript in preparation <br>
