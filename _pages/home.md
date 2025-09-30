@@ -25,11 +25,11 @@ If you are interested in collaborating with me or working with me as a research 
 Michigan State University, Eli Broad College of Business
 * Assistant Professor of Marketing, 2025 - Present
 
-Massachusetts Institute of Technology, MIT Sloan School of Management
-* Visiting Faculty Scholar of Marketing, 2023 - 2024
-
 Shanghai University of Finance and Economics, College of Business
 * Assistant Professor of Marketing, 2022 - 2025
+
+Massachusetts Institute of Technology, MIT Sloan School of Management
+* Visiting Faculty Scholar of Marketing, 2023 - 2024
 <br>
 
 
@@ -51,7 +51,7 @@ Jilin University, Business School
 
 ## <left> SELECTED INDUSTRY COLLABORATIONS </left>
 - Nissan
-- Secoo
+- Michigan State University Federal Credit Union (MSUFCU)
 <br>
 
 ## <left> PUBLICATIONS (*corresponding author) </left>
@@ -66,24 +66,25 @@ Jilin University, Business School
 <br>
 
 ## <left> WORKING PAPERS <left>
-4. <b>Siqi Pei</b>, Yiying Zhang, Juan Feng, and Michael Zhang, “How Much Personalized Information is Necessary? Re-examining Personalized Recommendations in Consumer Purchases”, Manuscript in preparation <br>
+1. Differentiation under AI Pressure: Creator Adaptation to Assistive vs. Substitutive Generative AI <br>
 
-5. Juanni Chen, Qi Sun, <b>Siqi Pei*</b>, and Yong Liu, “Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content”, Manuscript in preparation
-<br>
+2. How Much Personalized Information is Necessary? Re-examining Personalized Recommendations in Consumer Purchases <br>
 
-6. Miaozhe Han, <b>Siqi Pei</b>, Jie Song, Feng Zhu, and Michael Zhang,  “The Blessing of High Price: A Field Experiment on E-Commerce Platform”, Manuscript in preparation 
-<br>
+3. Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content <br>
 
+4. The Blessing of High Price: A Field Experiment on E-Commerce Platform <br>
 
 ## <left> WORK IN PROGRESS </left>
+1. Responsible Generative AI in Financial Services: Collaboration with Michigan State University Federal Credit Union (MSUFCU) <br>
 
-7. Strategic Adjustments in Influencer Marketing in Response to Large Language Models <br>   
-8. Field Experiment on Digital Marketing Effectiveness in Automotive Sales <br>  
-9. Field Experiment on Applications and Impact of Large Language Models in Automotive Sales
-<br>  
+2. Large Language Model Integration in Automotive Sales and Customer Engagement: Evidence from Field Experiments <br>
+
+3. Facial Recognition Bans and U.S. Consumer Behavior: Balancing Retail Security and Privacy <br>
+
+4. Cryptocurrency ATM Regulations and Retail Spillovers in the U.S. Convenience Store Industry <br>
 
 ## <left> RESEARCH AWARDS AND GRANTS </left>
-- National Natural Science Foundation of China, Principal Investigator, 2024-2026
+- General Research Fund, Shanghai University of Finance and Economics, 2025
 - Distinguished Faculty Award, Shanghai University of Finance and Economics, 2023, 2024
 - Shanghai Leading Talent (Overseas), 2023
 - General Research Fund, Shanghai University of Finance and Economics, 2022-2025
@@ -91,7 +92,6 @@ Jilin University, Business School
 - Workshop on Information Systems and Economics (WISE) Best Paper Award, 2020
 - Hong Kong Information and Communication Technologies (HKICT) Innovation Award, 2019
 - Chinese University of Hong Kong Postgraduate Studentships (PGS) Award, 2016-2021
-- “Challenge Cup” Chinese College Student Business Plan Competition, Gold Prize, 2014
 <br> 
 
 ## <left> TEACHING EXPERIENCE </left>
