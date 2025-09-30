@@ -143,6 +143,6 @@ Jilin University, Business School
 * Information Systems Research (ISR), 2023, 2024
 * INFORMS Annual Meeting, 2024
 * International Conference on Information Systems (ICIS), 2019, 2020, 2022, 2024
-* China Summer Workshop on Information Management (CSWIM), 2023, 2024
+* China Summer Workshop on Information Management (CSWIM), 2024
 * Production and Operations Management (POM), 2022
 * Pacific Asia Conference on Information Systems (PACIS), 2019, 2020
