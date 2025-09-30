@@ -84,7 +84,7 @@ Jilin University, Business School
 4. Cryptocurrency ATM Regulations and Retail Spillovers in the U.S. Convenience Store Industry <br>
 
 ## <left> RESEARCH AWARDS AND GRANTS </left>
-- General Research Fund, Shanghai University of Finance and Economics, 2025
+- General Research Fund, Michigan State University, 2025
 - Distinguished Faculty Award, Shanghai University of Finance and Economics, 2023, 2024
 - Shanghai Leading Talent (Overseas), 2023
 - General Research Fund, Shanghai University of Finance and Economics, 2022-2025
