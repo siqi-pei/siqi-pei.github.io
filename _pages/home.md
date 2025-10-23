@@ -84,7 +84,7 @@ Jilin University, Business School
 
 [//]: # (1. Responsible Generative AI in Financial Services: Collaboration with Michigan State University Federal Credit Union &#40;MSUFCU&#41; <br>)
 
-2. Large Language Model Integration in Automotive Sales and Customer Engagement: Evidence from Field Experiments <br>
+[//]: # (2. Large Language Model Integration in Automotive Sales and Customer Engagement: Evidence from Field Experiments <br>)
 
 3. Facial Recognition Bans and U.S. Consumer Behavior: Balancing Retail Security and Privacy <br>
 
