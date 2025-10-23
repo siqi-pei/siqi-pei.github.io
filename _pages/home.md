@@ -11,7 +11,10 @@ redirect_from:
 ## <left> ABOUT ME </left>
 
 I am an Assistant Professor of Marketing at the Eli Broad College of Business, Michigan State University.
-My research focuses on the digital economy, influencer marketing, automotive marketing, and human–AI interactions, with a broader interest in how emerging technologies shape consumer behavior and social welfare.
+My research focuses on the digital economy, influencer marketing, and automotive marketing, with a broader interest in how emerging technologies shape consumer behavior and social welfare.
+
+[//]: # (, and human–AI interactions, )
+
 I employ field experiments, causal inference, and machine learning to generate insights that inform both marketing strategy and policy.
 
 My work has been published in leading journals such as Information Systems Research and Management Science, and has received multiple awards, including the WISE Best Paper Award. 
@@ -44,7 +47,9 @@ Jilin University, Business School
 <br>
 
 ## <left> RESEARCH INTERESTS </left>
-- Topics: Digital Economy, Influencer Marketing, Automotive Marketing, High-Tech Marketing, Human–AI Interactions, Social Welfare
+- Topics: Digital Economy, Influencer Marketing, Automotive Marketing, High-Tech Marketing, Social Welfare
+
+[//]: # (- Human–AI Interactions)
 
 - Methodologies: Field Experiment, Causal Inference, Machine Learning, Lab Experiment
 <br>
@@ -62,11 +67,12 @@ Jilin University, Business School
 2. Jialu Liu, <b>Siqi Pei\*</b>, and Michael Zhang, “Technology and the Political Agency Problem in Combating Water Pollution: A Regression Discontinuity Design”, *Management Science*, 71(8), 6319–6338.
 <br> 
 
-3. Wen Wang, <b>Siqi Pei</b>, and Tianshu Sun, “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments”, Forthcoming, *Information Systems Research*
-<br>
+[//]: # (3. Wen Wang, <b>Siqi Pei</b>, and Tianshu Sun, “Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments”, Forthcoming, *Information Systems Research*)
+[//]: # (<br>)
 
 ## <left> WORKING PAPERS <left>
-1. Differentiation under AI Pressure: Creator Adaptation to Assistive vs. Substitutive Generative AI <br>
+
+[//]: # (1. Differentiation under AI Pressure: Creator Adaptation to Assistive vs. Substitutive Generative AI <br>)
 
 2. How Much Personalized Information is Necessary? Re-examining Personalized Recommendations in Consumer Purchases <br>
 
@@ -75,7 +81,8 @@ Jilin University, Business School
 4. The Blessing of High Price: A Field Experiment on E-Commerce Platform <br>
 
 ## <left> WORK IN PROGRESS </left>
-1. Responsible Generative AI in Financial Services: Collaboration with Michigan State University Federal Credit Union (MSUFCU) <br>
+
+[//]: # (1. Responsible Generative AI in Financial Services: Collaboration with Michigan State University Federal Credit Union &#40;MSUFCU&#41; <br>)
 
 2. Large Language Model Integration in Automotive Sales and Customer Engagement: Evidence from Field Experiments <br>
 
@@ -105,9 +112,12 @@ Jilin University, Business School
 <br> 
 
 ## <left> CONFERENCE PRESENTATIONS AND INVITED TALKS  </left>
-- Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments
-  - ISMS Marketing Science Conference, 2025 
-  - Cheung Kong Graduate School of Business Digital Young Scholar Symposium, 2023
+
+[//]: # (- Unraveling Generative AI from A Human Intelligence Perspective: A Battery of Experiments)
+
+[//]: # (  - ISMS Marketing Science Conference, 2025 )
+
+[//]: # (  - Cheung Kong Graduate School of Business Digital Young Scholar Symposium, 2023)
 - Content Management Policy and Influencer Marketing on Social Media Platforms: A Study of Shopping Links in Sponsored Content
   - Michigan State University, 2025
   - Conference on Information Systems and Technology (CIST), 2024
