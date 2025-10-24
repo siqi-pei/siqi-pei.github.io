@@ -51,7 +51,7 @@ Jilin University, Business School
 
 [//]: # (- Human–AI Interactions)
 
-- Methodologies: Field Experiment, Causal Inference, Machine Learning, Lab Experiment
+- Methodologies: Field Experiment, Causal Inference, Lab Experiment
 <br>
 
 ## <left> SELECTED INDUSTRY COLLABORATIONS </left>
